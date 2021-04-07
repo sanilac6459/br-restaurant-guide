@@ -6,4 +6,4 @@ Select a restaurant:
 ## [The Family Store](http://familystorecooks.com)
 ---
 Back to European  
-Start Over
+[Start Over](../home.md/)
