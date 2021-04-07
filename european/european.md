@@ -2,7 +2,7 @@
 ## European
 ---
 Select a specific European food:
-## Greek
-## Mediterranean
+## [Greek](greek.md)
+## [Mediterranean]
 ---
 Start Over
