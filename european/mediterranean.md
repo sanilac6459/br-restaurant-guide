@@ -2,8 +2,8 @@
 ## European --> Mediterranean
 ---
 Select a restaurant:
-## Tanoreen
-## The Family Store
+## [Tanoreen](https://tanoreen.com)
+## [The Family Store](http://familystorecooks.com)
 ---
 Back to European
 Start Over
