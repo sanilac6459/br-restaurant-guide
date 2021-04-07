@@ -4,5 +4,5 @@ c9# Bay Ridge Restaurant Guide
 Select a restaurant:
 ## [Bayridge Sushi](http://www.brsushi.com/)
 ---
-Back to Asian  
-Start Over
+[Back to Asian]  
+[Start Over](../home.md/)
