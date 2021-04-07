@@ -5,5 +5,5 @@ Select a restaurant:
 ## [Tanoreen](https://tanoreen.com)
 ## [The Family Store](http://familystorecooks.com)
 ---
-Back to European
+Back to European  
 Start Over
