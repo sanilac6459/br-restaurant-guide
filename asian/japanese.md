@@ -1,4 +1,4 @@
-c9# Bay Ridge Restaurant Guide
+# Bay Ridge Restaurant Guide
 ## Asian --> Japanese
 ---
 Select a restaurant:

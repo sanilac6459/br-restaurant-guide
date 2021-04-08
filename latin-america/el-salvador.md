@@ -2,7 +2,7 @@
 ## Latin America --> Salvadorian
 ---
 Select a restaurant:
-## [Puerta Del Sol](https://puertadelsolbk.com/
+## [Puerta Del Sol](https://puertadelsolbk.com)
 ---
-[Back to Latin America](latin-america.md)  
+[Back to Latin America](latin-america.md)
 [Start Over](../home.md/)
